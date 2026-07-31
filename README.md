@@ -16,7 +16,7 @@
 
 
   
-  Estudante no segundo semestre do curso de Análise e Desenvolvimento de Sistemas e formado como técnico em Desenvolvimento de Sistemas. Fascinado com a possibilidade criativa proporcionada pela tecnologia, buscando o aprimoramento contínuo como estudante e pessoa. Além da programação, pratico o xadrez como hobby.
+  Estudante no terceiro semestre do curso de Análise e Desenvolvimento de Sistemas e formado como técnico em Desenvolvimento de Sistemas. Fascinado com a possibilidade criativa proporcionada pela tecnologia, buscando o aprimoramento contínuo como estudante e pessoa. Além da programação, pratico o xadrez como hobby.
 
   ##
 
