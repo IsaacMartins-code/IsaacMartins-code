@@ -21,7 +21,11 @@
   ##
 
   ### Main Stack and Tools
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,idea,eclipse,git,github,postman"/>‎ ‎ 
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,sqlite"/>
+  <img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/51937190-2f74-420d-be50-111922168a48" />
+  <img width="45" height="45" alt="scenebuilder" src="https://github.com/user-attachments/assets/83252f83-a0e4-47c8-8afa-9b37d4dbb9c7" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,postman"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width=48>
   
   #
